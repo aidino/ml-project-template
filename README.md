@@ -1,16 +1,11 @@
 <div align="center">
 <h1><a href="">Project name</a></h1>
+<a target="_blank" href="https://pytorch.org/"><img src="https://img.shields.io/badge/pytorch-d35400"></a>&nbsp;
+<a target="_blank" href="https://www.ray.io/"><img src="https://img.shields.io/badge/ray-2980b9"></a>&nbsp;
+<a target="_blank" href=""><img src="https://img.shields.io/badge/nlp-white"></a>&nbsp;
+<a target="_blank" href=""><img src="https://img.shields.io/badge/classification-white"></a>&nbsp;
 </div>
 
-<div align="center">
-    <a target="_blank" href="https://pytorch.org/"><img src="https://img.shields.io/badge/pytorch-d35400"></a>&nbsp;
-    <a target="_blank" href="https://www.ray.io/"><img src="https://img.shields.io/badge/ray-2980b9"></a>&nbsp;
-    <a target="_blank" href=""><img src="https://img.shields.io/badge/nlp-white"></a>&nbsp;
-    <a target="_blank" href=""><img src="https://img.shields.io/badge/classification-white"></a>&nbsp;
-
-</div>
-
-<hr>
 
 ## Overview
 
